@@ -1,0 +1,52 @@
+﻿text,intent
+chào,greeting
+chào bạn,greeting
+Bạn có khỏe không,greeting
+xin chào,greeting
+microsoft edge,open_in_browser
+mở và tiềm kiếm,open_in_browser
+mở trong trình duyệt,open_in_browser
+bạn có thể,open_in_browser
+tìm kiếm với Google,open_in_browser
+youtube,open_in_browser
+tìm kiếm,open_in_browser
+mở wiki,open_in_browser
+Google,open_in_browser
+nghe nhạc,open_in_browser
+xem phim,open_in_browser
+mở youtube,open_in_browser
+microsoft excel,open_app
+microsoft powerpoint,open_app
+microsoft word,open_app
+bạn có thể mở,open_app
+Mở PowerPoint,open_app
+word,open_app
+Mở Excel,open_app
+ngày mấy,datatime
+mấy giờ,datatime
+thời tiết hôm nay thế nào,weather
+trời hôm nay thế nào,weather
+hôm này trời ra sao,weather
+thời tiết hôm nay ra sao,weather
+ghi chú,note
+chú thích,note
+thay hình nền,wallper
+đổi hình nền,wallper
+đổi background,wallper
+thay ảnh nền,wallper
+gửi email,sendmail
+hẹn gặp bạn lần sau,leaving
+hẹn gặp lại,leaving
+bye,leaving
+tạm biệt,leaving
+bạn tệ quá,insult
+cài đặt chương trình,install
+cài đặt,install
+tải về,install
+tải về chương trình,install
+bạn làm được gì,function
+bạn có những chức năng nào,function
+bạn có mấy chức năng,function
+chức năng,function
+
+
