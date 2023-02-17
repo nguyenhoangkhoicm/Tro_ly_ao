@@ -13,6 +13,8 @@ gTTS
 speech-recognition-python
 exosip2ctypes
 requests
+urllib
+pathlib
 time-tools
 pandas2
 sklearn
